@@ -56,12 +56,12 @@ fun_fact: >
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AsutoshSD3&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=12" alt="Asutosh's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsutoshSD3&layout=donut-vertical&langs_count=6&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&border_radius=12" alt="Asutosh's Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsutoshSD3&theme=tokyonight" alt="Asutosh's GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsutoshSD3&theme=tokyonight" alt="Asutosh's Top Languages" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=AsutoshSD3&theme=tokyonight&hide_border=true&border_radius=12" alt="Asutosh's GitHub Streak" />
+  <img width="98%" src="https://streak-stats.demolab.com/?user=AsutoshSD3&theme=tokyonight&hide_border=true&border_radius=12" alt="Asutosh's GitHub Streak" />
 </p>
 
 ---
