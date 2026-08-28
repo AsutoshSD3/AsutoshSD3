@@ -64,7 +64,9 @@ fun_fact: >
 
 ## 🐍 My Contributions — Watch the Snake!
 
-![Snake animation](https://github.com/AsutoshSD3/AsutoshSD3/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AsutoshSD3/AsutoshSD3/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 
