@@ -61,7 +61,7 @@ fun_fact: >
 </p>
 
 <p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com/?user=AsutoshSD3&theme=tokyonight&hide_border=true&border_radius=12" alt="Asutosh's GitHub Streak" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsutoshSD3&theme=tokyonight" alt="Asutosh's GitHub Profile Details" />
 </p>
 
 ---
